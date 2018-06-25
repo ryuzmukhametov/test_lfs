@@ -4,3 +4,7 @@
     process = git-lfs filter-process --skip
     required = false
 	fetchexcude = *
+
+
+[lfs]
+	fetchexclude = *
